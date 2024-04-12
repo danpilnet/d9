@@ -182,7 +182,7 @@ ACCOUNT_FORMS = {'signup': 'sign.models.BasicSignupForm'}
 EMAIL_HOST = 'smtp.yandex.ru'
 EMAIL_PORT = 465
 EMAIL_HOST_USER = 'danpilnet'
-EMAIL_HOST_PASSWORD = 'jrhjrgjjejqfpokb'
+EMAIL_HOST_PASSWORD = ''
 EMAIL_USE_SSL = True
 
 DEFAULT_FROM_EMAIL = ' + danpilnet@yandex.ru'
